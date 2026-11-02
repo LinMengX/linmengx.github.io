@@ -65,7 +65,8 @@ a:focus-visible, button:focus-visible { outline: 2px solid #224b8d; outline-offs
 .paper-summary { margin-top: 12px; }
 .paper-summary li { margin-bottom: 10px; }
 .subheading { margin: 22px 0 10px; font-size: 17px; font-weight: 700; }
-.manuscript-list li { margin-bottom: 10px; }
+.manuscript-paper .paper-image-wrap { padding-top: 25px; }
+.paper-image-link { display: block; cursor: zoom-in; }
 .image-credit { margin-top: 22px !important; color: #8a8f93; font-size: 11px; }
 
 @media (max-width: 1050px) {
